@@ -145,8 +145,5 @@ Push to the branch (git push origin feature-name)
 
 Create a Pull Request
 
-License
-This project is licensed under the MIT License.
-
 Contact
 For any questions, contact: MASENGESHO Odile – masengeshoodile@gmail.com
